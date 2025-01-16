@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f7cb4089-4906-4bef-bfd9-8e27bc35d462)
 
 # Tribute to Conway's Game of Life using CUDA - Numba
 
